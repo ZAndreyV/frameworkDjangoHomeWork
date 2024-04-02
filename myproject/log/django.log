@@ -1,0 +1,20 @@
+
+[INFO    :   django.utils.autoreload] - 2024-04-03 01:17:57,467 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               myapp.views] - 2024-04-03 01:18:17,049 : main @0042: Страница "Главная" успешно открыта
+[INFO    :             django.server] - 2024-04-03 01:18:17,049 : log_message @0212: "GET /main/ HTTP/1.1" 200 776
+[INFO    :               myapp.views] - 2024-04-03 01:18:21,209 : main @0042: Страница "Главная" успешно открыта
+[INFO    :             django.server] - 2024-04-03 01:18:21,209 : log_message @0212: "GET /main/ HTTP/1.1" 200 776
+[INFO    :               myapp.views] - 2024-04-03 01:18:25,670 : about_me @0051:  >> посещена страница 'обо мне'/about
+[INFO    :             django.server] - 2024-04-03 01:18:25,670 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 184
+[WARNING :            django.request] - 2024-04-03 01:18:35,518 : log_response @0241: Not Found: /
+[WARNING :             django.server] - 2024-04-03 01:18:35,519 : log_message @0212: "GET / HTTP/1.1" 404 2400
+[WARNING :            django.request] - 2024-04-03 01:18:42,527 : log_response @0241: Not Found: /
+[WARNING :             django.server] - 2024-04-03 01:18:42,528 : log_message @0212: "GET / HTTP/1.1" 404 2400
+[WARNING :            django.request] - 2024-04-03 01:18:54,155 : log_response @0241: Not Found: /
+[WARNING :             django.server] - 2024-04-03 01:18:54,156 : log_message @0212: "GET / HTTP/1.1" 404 2400
+[INFO    :               myapp.views] - 2024-04-03 01:19:32,069 : main @0042: Страница "Главная" успешно открыта
+[INFO    :             django.server] - 2024-04-03 01:19:32,070 : log_message @0212: "GET /main/ HTTP/1.1" 200 776
+[INFO    :               myapp.views] - 2024-04-03 01:19:43,793 : main @0042: Страница "Главная" успешно открыта
+[INFO    :             django.server] - 2024-04-03 01:19:43,793 : log_message @0212: "GET /main/ HTTP/1.1" 200 776
+[INFO    :               myapp.views] - 2024-04-03 01:19:46,506 : about_me @0051:  >> посещена страница 'обо мне'/about
+[INFO    :             django.server] - 2024-04-03 01:19:46,507 : log_message @0212: "GET /about_me/ HTTP/1.1" 200 184

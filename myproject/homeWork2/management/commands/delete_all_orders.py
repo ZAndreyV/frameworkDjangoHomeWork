@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from homeWork2.models import Order
+from homeWork3.models import Order
 
 
 class Command(BaseCommand):

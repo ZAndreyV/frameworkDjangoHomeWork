@@ -1,7 +1,7 @@
 from datetime import datetime
 from random import randint, choice
 from django.core.management.base import BaseCommand
-from homeWork2.models import Client, Product, Order
+from homeWork3.models import Client, Product, Order
 
 
 

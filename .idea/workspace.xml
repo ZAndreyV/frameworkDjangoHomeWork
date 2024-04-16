@@ -4,24 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086323ee-d7de-4ace-9477-0d3793db5300" name="Changes" comment="added myapp">
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_all_orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/dleete_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_product.py" afterDir="false" />
+    <list default="true" id="086323ee-d7de-4ace-9477-0d3793db5300" name="Changes" comment="added homeWork5">
+      <change afterPath="$PROJECT_DIR$/myproject/homeWork3/management/commands/generate_fake_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkDjangoHomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkDjangoHomeWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/create_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_all_orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_all_orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/delete_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/dleete_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/dleete_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_all_clients.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_all_clients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_all_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_all_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/get_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork2/management/commands/update_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/homeWork2/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/homeWork3/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/log/django.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +55,19 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/31m34/project_dj/frameworkDjangoHomeWork/myproject/homeWork3&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\31m34\project_dj\frameworkDjangoHomeWork\myproject\homeWork3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\31m34\project_dj\frameworkDjangoHomeWork\myproject\homeWork3" />
+      <recent name="C:\Users\31m34\project_dj\frameworkDjangoHomeWork\myproject\homeWork3\management\commands" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -113,7 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712083426403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added homeWork2">
+      <option name="closed" value="true" />
+      <created>1712494577979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712494577979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added homeWork2.1">
+      <option name="closed" value="true" />
+      <created>1712494616671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712494616671</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added homeWork5">
+      <option name="closed" value="true" />
+      <created>1713208965436</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713208965436</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +189,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added myapp" />
-    <option name="LAST_COMMIT_MESSAGE" value="added myapp" />
+    <MESSAGE value="added homeWork2" />
+    <MESSAGE value="added homeWork2.1" />
+    <MESSAGE value="added homeWork5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homeWork5" />
   </component>
 </project>

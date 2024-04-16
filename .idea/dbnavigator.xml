@@ -16,7 +16,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df">
+    <connection id="10305def-af65-4234-a67f-8b11cacf4491">
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
   </component>
@@ -24,18 +24,24 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" object-ref="schemas/main/tables/homeWork2_order" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
-    <connection id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" />
+    <connection id="10305def-af65-4234-a67f-8b11cacf4491" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" dataset="main.homeWork2_order_product" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" dataset="main.homeWork2_order" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" dataset="main.homeWork2_client" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" dataset="main.homeWork2_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="10305def-af65-4234-a67f-8b11cacf4491" dataset="main.auth_user" active-filter-id="EMPTY_FILTER" />
+  </component>
+  <component name="DBNavigator.Project.ExecutionManager">
+    <retain-sticky-names value="false" />
+  </component>
+  <component name="DBNavigator.Project.MethodExecutionManager">
+    <method-browser />
+    <execution-history>
+      <group-entries value="true" />
+      <execution-inputs />
+    </execution-history>
+    <argument-values-cache />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
@@ -43,7 +49,7 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="aceaa5d1-9ff7-4679-98ac-3e0bb8f821df" active="true" signed="true">
+      <connection id="10305def-af65-4234-a67f-8b11cacf4491" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />
